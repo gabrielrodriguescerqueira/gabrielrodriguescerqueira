@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Suporte Técnico
 - 🌱 Estudando Typescript
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/gabrielrodriguescerqueira">
