@@ -27,6 +27,7 @@
   
 ### Studying in this moment:
 
+
 [![.NET](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
   <div align="center">
